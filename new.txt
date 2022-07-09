@@ -3,5 +3,3 @@ new line
 i am adding line 2
 
 i am adding line 3
-
-checking meld
