@@ -1,1 +1,3 @@
 this is new created text file
+
+line 2
