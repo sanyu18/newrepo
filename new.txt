@@ -6,4 +6,4 @@ i am adding line 3
 
 now check
 
-added newline
+added newliness
